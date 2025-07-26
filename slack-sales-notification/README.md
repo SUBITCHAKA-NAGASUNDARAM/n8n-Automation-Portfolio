@@ -3,7 +3,10 @@
 This repo contains automation workflows I created using [n8n](https://n8n.io). I’m learning how to connect different tools without writing a lot of code, and these are some of the first workflows I’ve built.
 
 ---
-https://github.com/SUBITCHAKA-NAGASUNDARAM/n8n-Automation-Portfolio/blob/main/slack-sales-notification/Slack_Sales_Notification_Workflow.png
+
+![Workflow Screenshot](Slack_Sales_Notification_Workflow.png)
+
+
 ## Projects included so far
 
 ### 1. Slack Sales Notification
